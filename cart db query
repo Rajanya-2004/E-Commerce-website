@@ -1,0 +1,8 @@
+-- Table for user's cart
+create table cart (
+  id serial primary key,
+  user_id uuid references auth.users(id),
+  item_id int references items(id),
+  qty int default 1,
+  unique(user_id, item_id)
+);
