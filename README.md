@@ -61,3 +61,15 @@ Tech Stack
   State Management: React Context API
 
   Hosting: Netlify
+
+Future Enhancements
+
+Add wishlist feature.
+
+Add search functionality for products.
+
+Implement checkout and payment integration.
+
+Add user order history and profile management.
+
+Advanced filtering and sorting options.
