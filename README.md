@@ -1,10 +1,10 @@
-Essence Perfume Store
+ESSENCE PERFUME STORE
 
 Essence Perfume Store is a modern, responsive e-commerce web application built with React for the frontend and Supabase for backend services. It provides a seamless shopping experience, allowing users to browse products, filter them by category or price, add items to a persistent cart, and manage purchases easily. The app is fully responsive, offering a smooth interface for both mobile devices and desktop screens.
 
 Link:[ perfume-webstore.netlify.app](https://perfume-webstore.netlify.app/)
 
-Features
+FEATURES--
 
   User Authentication
 
@@ -13,7 +13,7 @@ Features
   Only logged-in users can add items to the cart.
 
 
-Product Browsing & Filtering
+PRODUCT BROWSING--
 
   View a curated collection of perfumes with details: name, price, discount, and category.
 
@@ -22,7 +22,7 @@ Product Browsing & Filtering
   Fully responsive interface for mobile and desktop devices.
 
 
-Shopping Cart
+SHOPPING CART--
 
   Add products to the cart with quantity management.
 
@@ -33,7 +33,7 @@ Shopping Cart
   Cart badge dynamically updates with the total number of items.
 
 
-Responsive Design
+RESPONSIVE DESIGN--
 
   Mobile-first design with smooth layouts and navigation.
 
@@ -42,7 +42,7 @@ Responsive Design
   Clean and modern UI using TailwindCSS.
 
 
-Backend Integration
+BACKEND INTEGRATION--
 
 Supabase serves as the backend for:
 
@@ -52,7 +52,7 @@ Supabase serves as the backend for:
       
 Cart data storage for each user
 
-Tech Stack
+TECH STACK--
 
   Frontend: React, React Router, TailwindCSS, React Icons
 
@@ -62,7 +62,7 @@ Tech Stack
 
   Hosting: Netlify
 
-Future Enhancements
+FUTURE ENHANCEMENTS--
 
 Add wishlist feature.
 
